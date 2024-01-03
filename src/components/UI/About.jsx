@@ -21,14 +21,14 @@ const About = () => {
 
             <div className=" d-flex align-items-center gap-5">
               <div>
-                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
+                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal" style={{ fontSize: '1.5rem', color: 'white' }}>
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
                   Problem Solving
                 </h6>
 
-                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
+                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal" style={{ fontSize: '1.5rem', color: 'white' }}>
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
@@ -37,14 +37,14 @@ const About = () => {
               </div>
 
               <div>
-                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
+                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal" style={{ fontSize: '1.5rem', color: 'white' }}>
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
                   Creative Idea
                 </h6>
 
-                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
+                <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal" style={{ fontSize: '1.5rem', color: 'white' }}>
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>

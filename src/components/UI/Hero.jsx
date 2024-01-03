@@ -10,7 +10,6 @@ const Hero = () => {
     <section className={`${classes.hero}`}>
       <Container>
         <Row>
-          {/* ========== hero content ============= */}
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
@@ -42,7 +41,7 @@ const Hero = () => {
                   <i className="ri-lightbulb-flash-line"></i>
                 </span>
                 <div className="bg-transparent">
-                  <h6>Experience</h6>
+                  <h6 className="mb-0" style={{color:"white"}}>Experience</h6>
                   <h5 className="mb-0" style={{color:"white"}}>1 Year</h5>
                 </div>
               </div>
