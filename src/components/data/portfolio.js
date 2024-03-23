@@ -43,14 +43,6 @@ const portfolio = [
     liveUrl: "https://github.com/yahyadhaou/sudoko.js",
   },
 
-  {
-    id: "06",
-    title: "Fashion Shopping App",
-    media:[ "/images/cartown2.png","/images/cartown2.png","/images/cartown2.png"],
-    category: "Web",
-    keyword: ["Mobile", "App", "UI-UX"],
-    liveUrl: "#",
-  },
 
   // {
   //   id: "07",
